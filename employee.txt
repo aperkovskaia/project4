@@ -1,0 +1,9 @@
+===========Bank ============
+454|First Choice|Chicago|Phone (773)565-7676|Fax (773)565-7070|firstchoice@abc.com
+===========Employee[s] ============
+1234|alla|alla@abc.com|yes
+3000.0|BC|alla@abc.com
+
+1235|amy|amy@abc.com|yes
+3500.0|BC|amy@abc.com
+
